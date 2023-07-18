@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Maven Pro', sans-serif;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+    padding: 20px;
+
+}
+i{
+    padding: 15px;
+}
+
+main{
+    width: 90%;
+    height: 80vh;
+    /* border: 1px solid black; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+div{
+    width: 30%;
+    height: 160px;
+    /* border: 1px solid red; */
+    cursor: pointer;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 10px;
+    
+}
+.a{
+    background-image: url("images/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b{
+    background-image: url("images/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c{
+    background-image: url("images/img3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d{
+    background-image: url("images/img4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e{
+    background-image: url("images/img5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f{
+    background-image: url("images/img6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.g{
+    background-image: url("images/img7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h{
+    background-image: url("images/img8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.i{
+    background-image: url("images/img9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
